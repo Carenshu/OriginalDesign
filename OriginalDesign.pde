@@ -29,12 +29,11 @@ if (moonX>=250&&moonY>250){
         
                  background(135,206,250);
                  fill(89,62,26);
-                 text( "A day had passed. Fast, right ? so don't waste time! Get out and do something. ",10,135 );        
+                 text( "A day had passed. Fast, right ? ",10,135 );     
+                 text (" so don't waste time! Get out and do something.",10,145);
         
         }
  
-println(sunX);
-println(sunY);
 }
  
 void sun ()
